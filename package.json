@@ -1,0 +1,29 @@
+{
+  "description": "Cardinal Keeper 2015",
+  "author": "Khusamov Sukhrob <khusamov@yandex.ru>",
+  "name": "cardinalkeeper",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cardinalkeeper/core.git"
+  },
+  "engines": {
+    "node": "~4.1.2"
+  },
+  "dependencies": {
+    "body-parser": "~1.14.0",
+    "express": "~4.13.3",
+    "express-resource": "~1.0.0",
+    "jsymfony-autoload": "~0.0.1",
+    "merge": "^1.2.0",
+    "multi-ini": "~0.5.2",
+    "pg-monitor": "~0.3.2",
+    "pg-promise": "~1.10.6",
+    "pretty": "~1.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/cardinalkeeper/core/issues",
+    "email": "khusamov@yandex.ru"
+  }
+}
