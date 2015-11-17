@@ -1,0 +1,12 @@
+{
+	"--title": "Cardinal Keeper Client",
+	"--output": "docs",
+	"--categories": "jsduckcat.json",
+	"--no-source": true,
+	"--external": "Ext.*",
+	"--": [
+		"C:/sencha/6.0.0/packages/core/src1",
+		"packages/local/cardinalkeeper-library/src",
+		"cardinalkeeper/app"
+	]
+}

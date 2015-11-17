@@ -1,0 +1,7 @@
+[{
+	"name": "Cardinalkeeper",
+	"groups": [{
+		"name": "Cardinalkeeper",
+		"classes": ["Cardinalkeeper.*"]
+	}]
+}]
