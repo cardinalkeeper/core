@@ -24,6 +24,17 @@ https://github.com/cardinalkeeper
 Серверная часть тоже поставлена.
 В общем здесь все готово, надо главный модуль доделать и можно довести контрагентов до работоспособного состояния.
 
+5) Рабочий пример работы кардинала:
+https://ide.c9.io/khusamov/alternativa_online_server
+http://alternativa-online-server-khusamov.c9.io/public/
+
+Старые версии перенесены https://github.com/khusamov-dump
+https://github.com/khusamov-dump/cardinalkeeper
+https://github.com/khusamov-dump/cardinalkeeper-contractor
+потом их удалить
+Также потом удалить машины
+https://ide.c9.io/khusamov/cardinalkeeper-contractor
+https://ide.c9.io/khusamov/cardinal
 
 РЕЗЮМЕ
 - довести до работоспособного состояния core/client
